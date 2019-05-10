@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-rest-mgo/controllers"
+	"github.com/debovema/go-rest-mgo/controllers"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"fmt"
-	"go-rest-mgo/forms"
-	"go-rest-mgo/models"
+	"github.com/debovema/go-rest-mgo/forms"
+	"github.com/debovema/go-rest-mgo/models"
 
 	"github.com/gin-gonic/gin"
 )

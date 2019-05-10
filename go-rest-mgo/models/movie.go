@@ -1,8 +1,8 @@
 package models
 
 import (
-	"go-rest-mgo/db"
-	"go-rest-mgo/forms"
+	"github.com/debovema/go-rest-mgo/db"
+	"github.com/debovema/go-rest-mgo/forms"
 
 	"gopkg.in/mgo.v2/bson"
 )
